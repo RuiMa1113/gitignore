@@ -1,3 +1,11 @@
+# Put comment in .gitignore file using hash sign
+
+
+# Ignore a single file
 new-file.txt
 
+# Ignore an entire folder
 bin/
+
+# Ignore all .tmp files
+*.tmp
