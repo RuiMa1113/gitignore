@@ -1,1 +1,3 @@
 Some contents is in the new file
+
+Added another line here
